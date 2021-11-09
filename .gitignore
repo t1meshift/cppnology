@@ -1,0 +1,6 @@
+.vscode
+.cache
+build
+
+# for JetBrains IDE lovers <3
+cmake-build-*
